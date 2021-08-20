@@ -15,17 +15,9 @@
 * Rust Development
 
 ### I love working with
-* Python
-    * Flask
-    * Pandas
-    * Selenium
-* Javascript
-    * NodeJS 
-    * ExpressJS
-    * ElectronJS
-    * Puppeteer
-* Database
-    * MongoDB
+* Python: Flask, Pandas, Selenium
+* Javascript: NodeJS, ExpressJS, ElectronJS, Puppeteer
+* Database: MongoDB
 
 ### 👯 I’m looking to collaborate on
 * Desktop Apps
