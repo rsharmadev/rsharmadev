@@ -1,17 +1,24 @@
-### Hi there 👋
+# Hi there 👋
+### I am Rohit Sharma, a 17 year old backend (learning frontend!) software developer. I love using Python and NodeJS!
+
+
+
+###🔭 I’m currently working on
+* 
+* Backend Software Developer at [Cop Tools](https://cop.tools/)
+* Part of the (Linear Tools)[https://linear.tools/] Team
+* Freelance software development
+
+###🌱 I’m currently learning
+* Basics of Frontend Development (HTML/CSS -> React)
+* Machine Learning and AI
+* Rust Development
+
+###👯 I’m looking to collaborate on
+* Desktop Apps
+* Webapps
+
+###📫 Contact Me
+* (LinkedIn)[https://www.linkedin.com/in/rohit-sharma-135863215/]
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=sugarycoke&show_icons=true)
-
-<!--
-**sugarycoke/sugarycoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
