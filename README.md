@@ -4,9 +4,8 @@
 
 
 ### 🔭 I’m currently working on
-* 
 * Backend Software Developer at [Cop Tools](https://cop.tools/)
-* Part of the (Linear Tools)[https://linear.tools/] Team
+* Part of the [Linear Tools](https://linear.tools/) Team
 * Freelance software development
 
 ### 🌱 I’m currently learning
@@ -19,6 +18,6 @@
 * Webapps
 
 ### 📫 Contact Me
-* (LinkedIn)[https://www.linkedin.com/in/rohit-sharma-135863215/]
+* [LinkedIn](https://www.linkedin.com/in/rohit-sharma-135863215/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sugarycoke&show_icons=true)
