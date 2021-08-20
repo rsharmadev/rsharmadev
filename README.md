@@ -16,7 +16,7 @@
 
 ### I love working with
 * Python: Flask, Pandas, Selenium
-* <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" height="25" />: NodeJS, ExpressJS, ElectronJS, Puppeteer
+* <img src="https://img.shields.io/badge/JavaScript?logo=javascript" height="25" />: NodeJS, ExpressJS, ElectronJS, Puppeteer
 * Database: <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 
 ### 👯 I’m looking to collaborate on
