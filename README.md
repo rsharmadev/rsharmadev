@@ -3,22 +3,22 @@
 
 
 
-###🔭 I’m currently working on
+### 🔭 I’m currently working on
 * 
 * Backend Software Developer at [Cop Tools](https://cop.tools/)
 * Part of the (Linear Tools)[https://linear.tools/] Team
 * Freelance software development
 
-###🌱 I’m currently learning
+### 🌱 I’m currently learning
 * Basics of Frontend Development (HTML/CSS -> React)
 * Machine Learning and AI
 * Rust Development
 
-###👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
 * Desktop Apps
 * Webapps
 
-###📫 Contact Me
+### 📫 Contact Me
 * (LinkedIn)[https://www.linkedin.com/in/rohit-sharma-135863215/]
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sugarycoke&show_icons=true)
