@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=sugarycoke&show_icons=true)
 
 <!--
 **sugarycoke/sugarycoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
