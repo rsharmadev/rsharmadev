@@ -11,6 +11,7 @@
 ### 🌱 I’m currently learning
 * Basics of Frontend Development (HTML/CSS -> React)
 * Machine Learning and AI
+* GoLang Development
 * Rust Development
 
 ### 👯 I’m looking to collaborate on
