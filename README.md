@@ -27,10 +27,6 @@ Database
 
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 
-### 👯 I’m looking to collaborate on
-* Desktop Apps
-* Webapps
-
 ### 📫 Contact Me
 * [![Linkedin Badge](https://img.shields.io/badge/-RohitSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-sharma-135863215/)](https://www.linkedin.com/in/rohit-sharma-135863215/)
 
