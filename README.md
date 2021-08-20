@@ -17,7 +17,7 @@
 ### I love working with
 * Python: Flask, Pandas, Selenium
 * Javascript: NodeJS, ExpressJS, ElectronJS, Puppeteer
-* Database: MongoDB
+* Database: [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />]MongoDB
 
 ### 👯 I’m looking to collaborate on
 * Desktop Apps
