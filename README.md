@@ -4,7 +4,7 @@
 
 
 ### 🔭 I’m currently working on
-* Backend Software Developer at [Cop Tools](https://cop.tools/)
+* Backend Software Engineer at [Cop Tools](https://cop.tools/)
 * Part of the [Linear Tools](https://linear.tools/) Team
 * Freelance software development
 
