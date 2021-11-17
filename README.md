@@ -4,9 +4,11 @@
 
 
 ### 🔭 I’m currently working on
-* Backend Software Engineer at [Cop Tools](https://cop.tools/)
 * Part of the [Linear Tools](https://linear.tools/) Team
 * Freelance software development
+
+### Past Experience
+* Backend Software Engineer at [Cop Tools](https://cop.tools/)
 
 ### 🌱 I’m currently learning
 * Basics of Frontend Development (HTML/CSS -> React)
