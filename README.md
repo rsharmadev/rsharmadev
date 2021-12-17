@@ -25,6 +25,11 @@ Javascript
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" height="25" /> <img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js" height="25" /> <img src="https://img.shields.io/badge/ExpressJS-282C34?logo=express" height="25" /> <img src="https://img.shields.io/badge/ElectronJS-282C34?logo=electron" height="25" /> <img src="https://img.shields.io/badge/Puppeteer-282C34?logo=puppeteer" height="25" />
 
+Java
+
+<img src="https://img.shields.io/badge/Java-282C34?logo=java" height="25" />
+
+
 Database
 
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
