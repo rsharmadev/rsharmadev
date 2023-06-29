@@ -32,6 +32,6 @@ Database
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 
 ### 📫 Contact Me
-* [![Linkedin Badge](https://img.shields.io/badge/-RohitSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-sharma-135863215/)](https://www.linkedin.com/in/rohit-sharma-135863215/)
+* [![Linkedin Badge](https://img.shields.io/badge/-rsharmadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsharmadev/)](https://www.linkedin.com/in/rsharmadev/)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sugarycoke&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rsharmadev&show_icons=true)
