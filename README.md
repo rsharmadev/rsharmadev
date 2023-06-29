@@ -1,5 +1,5 @@
 # Hi there 👋
-### I am Rohit Sharma, an 18 year old backend (learning frontend!) software developer. I love using Python and NodeJS!
+### I am Rohit Sharma, a 19 year old backend software developer. I love using Python, Node.JS, and Java.
 
 
 
