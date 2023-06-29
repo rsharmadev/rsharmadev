@@ -4,20 +4,17 @@
 
 
 ### 🔭 I’m currently working on
-* Part of the [Linear Tools](https://linear.tools/) Team
 * Freelance software development
 
 ### Past Experience
-* Backend Software Engineer at [Cop Tools](https://cop.tools/)
+* Backend Software Developer at [Cop Tools](https://cop.tools/)
 
 ### 🌱 I’m currently learning
-* Basics of Frontend Development (HTML/CSS -> React)
-* Machine Learning and AI
-* GoLang Development
-* Rust Development
+* ML/AI
+* C Development
 
 ### I love working with
-Python
+Node, Python, Java
 
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25" /> <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="25" /> <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas" height="25" /> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium" height="25" />
 
