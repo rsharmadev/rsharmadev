@@ -14,7 +14,7 @@
 * C Development
 
 ### I love working with
-Node, Python, Java
+Python
 
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" height="25" /> <img src="https://img.shields.io/badge/Flask-282C34?logo=flask" height="25" /> <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas" height="25" /> <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium" height="25" />
 
