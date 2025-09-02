@@ -35,3 +35,16 @@ Database
 * [![Linkedin Badge](https://img.shields.io/badge/-rsharmadev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsharmadev/)](https://www.linkedin.com/in/rsharmadev/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=rsharmadev&show_icons=true)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/rsharmadev/rsharmadev/blob/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/rsharmadev/rsharmadev/blob/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://github.com/rsharmadev/rsharmadev/blob/github-breakout/images/breakout-light.svg" />
+</picture>
